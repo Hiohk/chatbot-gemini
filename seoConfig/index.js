@@ -1,7 +1,7 @@
 export default {
-  title: "Logspot - Opensource changelog template",
+  title: "Chatbot-Gemini",
   description:
-    "Logspot is an open source change log template made with Nuxt, Vue, and Tailwindcss.",
+    "Chatbot-Gemini is an open source change log template made with Nuxt, Vue, and Tailwindcss.",
   og: {
     title: "Logspot - Opensource changelog template",
     description:

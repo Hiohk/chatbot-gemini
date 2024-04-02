@@ -9,7 +9,7 @@
     >
       <circle cx="4" cy="4" r="3" />
     </svg>
-    {{ label }}
+    {{ label }}1111
   </span>
 </template>
 
