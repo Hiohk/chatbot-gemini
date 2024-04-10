@@ -7,6 +7,6 @@ export default ({
         }
     },
     router: {
-        base: '/chatbot-gemini/'
+        base: '/<repository-name>/'
     }
 })
