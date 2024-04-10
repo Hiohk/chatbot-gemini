@@ -5,5 +5,8 @@ export default ({
             theme: 'nord',
             preload: ['js', 'css', 'html', 'md', 'ts', 'tsx', 'vue', 'python', 'ruby', 'java'],
         }
+    },
+    router: {
+        base: '/chatbot-gemini/'
     }
 })
